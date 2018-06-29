@@ -1,0 +1,21 @@
+#w {
+    font-family: veranda;
+    font-weight: 800;
+    font-size: 55px;
+    color: darkred;
+    outline-color: grey;
+}
+
+h3.r {
+    font-family: sans-serif;
+    color: darkcyan;
+}
+
+p.d {
+    font-family: monospace;
+    font-weight: 200
+}
+
+html {
+    margin-left: 20px;
+}
